@@ -1,7 +1,6 @@
 ## ECode 前端问答卡片
 
-[Ecode](https://github.com/WangYuLue/ecode) 前端相关的答题卡整理。
-
+此仓库用于整理 [Ecode](https://github.com/WangYuLue/ecode) 前端相关的答题卡
 
 ### 参考资料
 
